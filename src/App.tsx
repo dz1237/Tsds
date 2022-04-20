@@ -20,7 +20,7 @@ function App() {
               }
               icon={<GlobalOutlined />}
               style={{ marginLeft: "15px" }}>
-              语言111
+              语言
             </Dropdown.Button>
             <Button.Group className={styles['button-group']}>
               <Button>注册</Button>
